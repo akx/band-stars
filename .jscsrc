@@ -1,0 +1,6 @@
+{
+	"preset": "airbnb",
+	"esnext": true,
+	"validateQuoteMarks": true,
+	"validateIndentation": 4
+}

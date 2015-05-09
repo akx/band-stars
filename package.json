@@ -1,0 +1,32 @@
+{
+  "name": "band-stars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akx/band-stars.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akx/band-stars/issues"
+  },
+  "homepage": "https://github.com/akx/band-stars",
+  "dependencies": {
+    "babel-core": "^5.2.17",
+    "babel-loader": "^5.0.0",
+    "css-loader": "^0.12.0",
+    "html-webpack-plugin": "^1.3.0",
+    "lodash": "^3.8.0",
+    "mithril": "^0.2.0",
+    "style-loader": "^0.12.2",
+    "webpack": "^1.8.11"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^1.8.2"
+  }
+}

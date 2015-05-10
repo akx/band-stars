@@ -2,5 +2,7 @@
 	"preset": "airbnb",
 	"esnext": true,
 	"validateQuoteMarks": true,
-	"validateIndentation": 4
+	"validateIndentation": 4,
+	"safeContextKeyword": null,
+	"disallowQuotedKeysInObjects": null
 }

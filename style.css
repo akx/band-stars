@@ -12,6 +12,24 @@ td {
 	text-align: center
 }
 
+td.y {
+	background: #cfc;
+	color: #060;
+}
+
 tbody tr:hover td {
 	background: #fff
+}
+
+thead th {
+	vertical-align: bottom;
+}
+
+tbody th {
+	text-align: right;
+}
+
+a {
+	color: #930;
+	text-decoration: none
 }

@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "webpack -p"
+    "build": "webpack -p",
+    "dev": "webpack-dev-server",
+    "lint": "jscs index.js && jshint index.js"
   },
   "repository": {
     "type": "git",

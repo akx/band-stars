@@ -1,1 +1,1 @@
-{"esnext": true}
+{"esnext": true, "globalstrict": true, "browser": true, "node": true}
